@@ -3,7 +3,6 @@
 Assignement for SODA-502, Fall 2020. 
 
 ```
-# -*- coding: utf-8 -*-
 Created on Tue Sep 22 10:00:04 2020
 @author: Kafi Cifci
 
